@@ -1,0 +1,102 @@
+body{
+    background-color: rgb(211, 218, 221);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+h1{
+    /* text-decoration: underline; */
+    text-shadow: 6px 6px 3px pink;  
+    /* text-align: justify; */
+    color: rgb(132, 15, 241);
+    /* position: sticky; */
+    font-size: 64px;
+    border:8px inset violet;
+    border-radius: 12px;
+    padding: 3px 12px ;
+    width:57%;
+    margin: auto;
+    font-family: monospace;
+    
+}
+
+span{
+    color:rgb(10, 45, 240);
+
+}
+.rt{
+    width:24%;
+    border:4px outset greenyellow;
+    padding:25px 95px 60px;
+    margin:auto;
+    background-color: aqua;
+
+}
+
+
+.wer{
+    width:200px;
+    height:270px;
+    margin:auto;
+}
+.as,.pri{
+    font-family: monospace;
+    text-transform: capitalize;
+    font-size: 30px;
+    margin: auto;
+    color: blue;
+}
+
+.ty{
+    text-transform: capitalize;
+    /* text-decoration: underline; */
+    /* text-shadow: 6px 6px 3px rgb(122, 155, 194);  */
+    /* text-align: justify; */
+    color: rgb(15, 231, 62);
+    font-size: 44px;
+    border-radius: 5px;
+    padding: 1px 12px ;
+    width:3%;
+    margin: auto;
+}
+
+.rth{
+    margin: auto;;
+    border:10px solid pink;
+    border-radius: 12px;
+    font-family: monospace;
+    font-size: 33px;
+     padding:5px 15px; 
+    /* text-align: justify; */
+    color:blueviolet;
+
+    
+
+    
+}
+
+.wert{
+    margin: auto;;
+    border:10px  solid rgba(176, 200, 226, 0.596);
+    border-radius: 12px;
+    font-family: monospace;
+    font-size: 55px;
+    width:60%;
+    padding: 1% 2%;
+    color:rgb(1, 22, 15);
+
+}
+
+#tree{
+    background-color: rgb(218, 204, 228);
+    border:3px solid purple;
+    border-radius: 12px;
+    width:60%;
+    margin:auto;
+
+
+}
+
+
+
